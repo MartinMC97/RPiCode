@@ -1,4 +1,4 @@
-# RPiCode-Py
+# RPiCode
 Some simple programs using GPIO interface on [Raspberry Pi][1]
 Code written in Python.
 
