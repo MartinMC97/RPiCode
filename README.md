@@ -1,6 +1,8 @@
 # RPiCode
 Some simple programs using GPIO interface on [Raspberry Pi][1]
-Code written in Python.Some code is unusabe.
+Code written in Python.
+
+Some code is unusabe.
 
 Used libraries:
 [Adafruit_Python_CharLCD][2]
