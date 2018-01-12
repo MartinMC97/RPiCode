@@ -2,7 +2,7 @@
 Some simple programs using GPIO interface on [Raspberry Pi][1]
 Code written in Python.
 
-Some code is unusabe.
+Some code is unusabe.(```DHT_IFTTT.py```)
 
 Used libraries:
 [Adafruit_Python_CharLCD][2]
