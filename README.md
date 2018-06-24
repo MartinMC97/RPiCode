@@ -1,6 +1,6 @@
 # RPiCode
 Some simple programs using GPIO interface on [Raspberry Pi][1]
-Code written in Python.
+Code written in Python and C.
 
 Some code is unusabe.(```DHT_IFTTT.py```)
 
