@@ -1,5 +1,5 @@
  /* A simple controlling program that turns raspberry pi into a car. 
- *	A Xbox 360 controller and a motor coltrolling module L298N are required.
+ *  An Xbox 360 controller and a motor coltrolling module L298N are required.
  *  most of the code is ripped from http://archives.seul.org/linuxgames/Aug-1999/msg00107.html
  *  GPIO controlling is handled by WiringPi.
  *  The comment may not be accurate. Sorry about that.
